@@ -1,12 +1,12 @@
 export const ver = ".03";
 
 // QA
-export const api_key = "f594b85b-7cad-43d6-961e-56faf5b61bdc";
+export const api_key = process.env.REACT_APP_API_KEY;
 // const urlBase =
 //   "https://api-gc-qa.service.gnp.com.mx/apsin/api/asistencia-vial/proveedor"
 
 // //PROD
-// export const api_key = "e7a7edcb-5ef9-43d2-b60a-311e57d7e9a6";
+// export const api_key = process.env.REACT_APP_API_KEY;
 // const urlBase =
 //   "https://api-gc.service.gnp.com.mx/apsin/api/asistencia-vial/proveedor";
 
