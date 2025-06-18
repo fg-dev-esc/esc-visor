@@ -1,0 +1,101 @@
+:root {
+  --color-naranja: #f76d0c;
+  --color-azul: #002f7c;
+}
+
+.iconTable {
+  cursor: pointer;
+  color: var(--color-naranja);
+  font-size: 20px;
+}
+.iconTable:hover {
+  color: var(--color-naranja);
+}
+
+.labelDetalle {
+  color: var(--color-azul);
+  font-weight: 700;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.valueDetalle {
+  padding: 5px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+.botonSimple {
+  color: var(--color-naranja);
+  cursor: pointer;
+}
+
+.botonSimple:hover {
+  color: var(--color-azul);
+}
+
+.subTitulo {
+  color: var(--color-naranja);
+  margin: 10px 0 10px 0;
+}
+
+.ver {
+  color: #f1f1f1;
+  font-size: 11px;
+}
+
+.ant-spin-dot-item {
+  background-color: var(--color-naranja) !important;
+}
+
+.circulo {
+  height: 50px;
+  width: 60%;
+  margin-left: 15px;
+  padding-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 50px;
+}
+
+.AS,
+.Asignado {
+  background-color: #c2c2c2;
+  color: #fff;
+}
+
+.CO,
+.Confirmado {
+  background-color: #95bf9f;
+  color: #fff;
+}
+
+.EA,
+.EnAtencion {
+  background-color: #9db6e3;
+  color: #fff;
+}
+
+.AR,
+.Arribo {
+  background-color: #3b67b8;
+  color: #fff;
+}
+
+.TE,
+.Terminado {
+  background-color: #129632;
+  color: #fff;
+}
+
+.CA,
+.Cancelado {
+  background-color: #b31e00;
+  color: #fff;
+}
+
+.formaCambioEstatus {
+  padding: 10px;
+}
