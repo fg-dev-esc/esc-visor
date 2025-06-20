@@ -327,3 +327,10 @@ ASIGNADO → CONFIRMADO → EN_ATENCION → ARRIBO → TERMINADO
 ```
 
 La aplicación está diseñada para que los proveedores de asistencia vial puedan gestionar el ciclo de vida completo de un servicio, desde que se les asigna hasta que lo terminan.
+
+---
+ Desarrollado por:  
+## Luis Felipe Fernández  
+
+
+*© 2025 ESCOTEL® - Todos los derechos reservados*
